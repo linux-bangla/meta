@@ -1,2 +1,2 @@
 # meta
-Meta repo for Linux Bangal
+Meta repo for Linux Bangla
